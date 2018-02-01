@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form>
+	<fields name="params">
+		<fieldset name="params" label="PLG_CONTENT_MENUMETA_FIELDSET_LABEL">
+			<field
+				name="ogtitle"
+				type="text"
+				label="PLG_CONTENT_MENUMETA_CONTENT_OGTITLE"
+			/>
+			<field
+				name="ogdescription"
+				type="textarea"
+				label="PLG_CONTENT_MENUMETA_CONTENT_OGDESCRIPTION"
+				rows="10" 
+				cols="5"
+			/>
+			<field
+				name="ogimage"
+				type="media"
+				label="PLG_CONTENT_MENUMETA_CONTENT_OGIMAGE"
+			/>
+		</fieldset>
+	</fields>
+</form>
